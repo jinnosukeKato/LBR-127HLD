@@ -18,13 +18,11 @@
     (property "ki_description" "A reflective object sensor. Made by Letex Technology Corp." (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "LBR-127HLD_0_1"
+    (symbol "LBR-127HLD_1_1"
       (rectangle (start -10.16 5.08) (end 10.16 -5.08)
         (stroke (width 0) (type default))
-        (fill (type none))
+        (fill (type background))
       )
-    )
-    (symbol "LBR-127HLD_1_1"
       (pin input line (at 12.7 2.54 180) (length 2.54)
         (name "Anode" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
